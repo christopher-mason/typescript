@@ -25,7 +25,3 @@ export class Friend {
 //     new Friend(4, "Greg", "greg@yahoo.com", "513-543-8970"),
 //     new Friend(5, "Sean", "sean@yahoo.com", "513-654-9120")
 // ]; 
-
-// for(let friend of friends) {
-//     friend.print();
-// }
